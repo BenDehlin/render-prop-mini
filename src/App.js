@@ -1,8 +1,7 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-import LoginForm from './components/LoginForm'
-import RegistrationForm from './components/RegistrationForm'
+import LoginForm from './components/LoginFormHooks'
+import RegistrationForm from './components/RegistrationFormHooks'
 
 function App() {
   return (
